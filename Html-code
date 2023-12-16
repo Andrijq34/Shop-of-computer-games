@@ -1,0 +1,55 @@
+<html>
+    <head>
+        <title>Магазин комп'юнерних ігор</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+    <header>
+        <h1>
+        <img src="https://itsider.com.ua//catalog/uploaded/2021/06/Screenshot_1-7.png"/>
+        <br/>
+        Магазин комп'юнерних ігор</h1>
+    </header>
+    <main>
+    <nav>
+        <a href="#adres">Адреса</a>
+        <a href="#nomer">Номер</a>
+        <a href="#Bidgyku">Відгуки</a>
+    </nav>
+    <b><p><i>Наш магазин працює понад 5 років</i>
+    і маємо понад 100 магазинів в Україні і 5000 по всьому світy. Побачне нашу підбірку найкращих ігор у різних жанрах. З 1195 ігор, присутніх у каталозі, 1150 мають офіційну локалізацію.
+        <br/>
+        <i>Також ми маємо в асортименті</i>
+        комп'ютери, play station всіх версій та телевізори. Ми працюємо без вихідних і цілодобово.</p></b>
+    <p class="a"><b class="dds">Рейтинг:</b>
+    <table>
+        <tr>
+            <td>5<img class="star"src="//creazilla-store.fra1.digitaloceanspaces.com/emojis/55232/star-emoji-clipart-md.png"/>---------------------------------------------------- </td>
+            </tr>
+            <tr>
+            <td>4<img class="star"src="//creazilla-store.fra1.digitaloceanspaces.com/emojis/55232/star-emoji-clipart-md.png"/>-------------------------- </td>
+            </tr>
+            <tr>
+            <td>3<img class="star"src="//creazilla-store.fra1.digitaloceanspaces.com/emojis/55232/star-emoji-clipart-md.png"/>------------ </td>
+             </tr>
+            <tr><td>2<img class="star"src="//creazilla-store.fra1.digitaloceanspaces.com/emojis/55232/star-emoji-clipart-md.png"/>-------------------------------------------- </td>
+             </tr>
+            <tr><td>1<img class="star"src="//creazilla-store.fra1.digitaloceanspaces.com/emojis/55232/star-emoji-clipart-md.png"/>-- </td>
+        </tr>
+    </table>
+    </p>
+    <p id="Bidgyku" class="ddd">Відгуки:</p>
+         <p class="footer_p"> 
+            <img class="star"src="//creazilla-store.fra1.digitaloceanspaces.com/emojis/55232/star-emoji-clipart-md.png"/>
+            <img class="star" src="//creazilla-store.fra1.digitaloceanspaces.com/emojis/55232/star-emoji-clipart-md.png"/>
+            <img class="star" src="//creazilla-store.fra1.digitaloceanspaces.com/emojis/55232/star-emoji-clipart-md.png"/>
+            <img class="star" src="//creazilla-store.fra1.digitaloceanspaces.com/emojis/55232/star-emoji-clipart-md.png"/>
+            <img class="star" src="//creazilla-store.fra1.digitaloceanspaces.com/emojis/55232/star-emoji-clipart-md.png"/>
+            <br/>Гарне та швидке обслуговування, дуже швидко підбирають ігри не перший раз приходимо все на високому рівні.<br/><a class="fff" href="https://andrijq34.github.io/No-internet1/">Більше відгуків</a></p>
+    </main>
+    <footer>
+        <p id="adres">Адреса: вул. Перемоги 29</p>
+        <p id="nomer">Номер: 963 567 56 09 </p>
+    </footer>
+    </body>
+</html>
